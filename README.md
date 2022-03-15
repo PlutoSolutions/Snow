@@ -3,10 +3,12 @@
 # Snow 4.3 (Free Edition)
 
 <img src="https://crystalpvp.ru/snow/githublogo.png" alt="logo" width="50%" />
+  
+[click here for gui screenshot](https://crystalpvp.ru/snow/guipic.png)
 
 mirrors:
 
-[yougame.biz](https://yougame.biz/threads/) / [crystalpvp.ru](https://crystalpvp.ru/snow/) / [plutonium.wtf](https://plutonium.wtf/snow/)
+[yougame.biz](https://yougame.biz/threads/246921/) / [crystalpvp.ru](https://crystalpvp.ru/snow/) / [plutonium.wtf](https://plutonium.wtf/snow/)
 
 [plutosolutions telegram](https://t.me/plutosolutions)
 
