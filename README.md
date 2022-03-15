@@ -2,7 +2,7 @@
 
 # Snow 4.3 (Free Edition)
 
-<img src="https://crystalpvp.ru/snow/logo.png" alt="logo" width="50%" />
+<img src="https://crystalpvp.ru/snow/githublogo.png" alt="logo" width="50%" />
 
 mirrors:
 
@@ -42,3 +42,4 @@ Other than that, there are probably no other issues
 + [mrnv](https://github.com/mr-nv) - dumping & cracking
 + [YourSleep/3jq](https://github.com/3jq) - making the logo
 + maywr - crack testing
++ magisteroff - providing an account
